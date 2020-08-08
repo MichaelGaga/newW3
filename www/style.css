@@ -1,0 +1,33 @@
+#loginpage {
+    width: 20em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body     {
+    background-color: lightblue;
+    max-width: 75em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+
+}
+
+form {
+    display: block;
+}
+
+
+form input {
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+
+
+
+.hidemessage{
+    display:none;
+    }
+.showmessage{
+    display:block;
+    }
